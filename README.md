@@ -10,4 +10,4 @@ In the client .env file:
 -   REACT_APP_API_URL - url to the server
 -   REACT_APP_PRODUCT_LIMIT - rate, at which products will be parsed
 
-then run `npm start`
+run `npm install` in client and server folders and then run `npm start` in the root directory
