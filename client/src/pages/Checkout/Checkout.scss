@@ -1,0 +1,26 @@
+.Checkout {
+    display: flex;
+
+    &__LeftContainer {
+        width: 80%;
+        padding: 15px 30px;
+    }
+
+    &__InputContainer {
+        width: 50%;
+        padding: 10px 20px;
+    }
+
+    &__Form {
+        width: 75%;
+
+        display: flex;
+        flex-flow: row wrap;
+    }
+
+    &__ButtonContainer {
+        width: 100%;
+        margin-top: 20px;
+        text-align: center;
+    }
+}

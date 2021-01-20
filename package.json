@@ -1,0 +1,14 @@
+{
+    "name": "interview-e-commerce-shop",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "cd ./client && npm run build && rm -rf ../server/build/* && mv build ../server && cd ../server && npm start"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {},
+    "dependencies": {}
+}

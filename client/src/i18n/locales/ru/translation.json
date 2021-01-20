@@ -1,0 +1,14 @@
+{
+    "translation": {
+        "loading": "Загрузка...",
+        "buy": "Купить",
+        "noProducts": "Продукты не найдены.",
+        "proceedToCheckout": "Оплата",
+        "continue": "Продолжить",
+        "firstName": "Имя",
+        "lastName": "Фамилия",
+        "middlename": "Второе имя",
+        "phone": "Телефон",
+        "email": "Email"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "translation": {
+        "loading": "Loading...",
+        "buy": "Buy",
+        "noProducts": "No products found.",
+        "proceedToCheckout": "Checkout",
+        "continue": "Continue",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "middlename": "middlename",
+        "phone": "Phone",
+        "email": "Email"
+    }
+}
